@@ -5,4 +5,5 @@ void main ()
     printf();
     scanf("&d\n" , a);
     printf("You entered : %d",a);
+    return 0 ;
 }
